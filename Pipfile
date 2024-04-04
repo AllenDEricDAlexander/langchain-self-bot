@@ -9,6 +9,8 @@ black = "*"
 openai = "*"
 python-dotenv = "*"
 langchain-openai = "*"
+tweepy = "*"
+flask = "*"
 
 [dev-packages]
 
